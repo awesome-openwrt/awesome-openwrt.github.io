@@ -1,12 +1,11 @@
 #This file defines all the categories you 
 
-
-getting-started:
-  name: Getting Started
-  description: Welcome to Odin, time to get started
-using-odin:
-  name: Using Odin
-  description: Welcome to Odin, time to get started
-customizing-odin:
-  name: Customizing Odin
-  description: Welcome to Odin, time to get started
+a-start:
+  name: 快速开始
+  description: 只需一条指令即可构建属于自己的路由器系统
+b-use:
+  name: 使用经验
+  description: 固件及其软件包使用教程
+c-custom:
+  name: 自定义功能
+  description: 修改源码以实现自定义功能

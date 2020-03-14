@@ -1,5 +1,9 @@
 #Add your authors here
 
-mac:
-  name: Mac Reddin
-  image: mac.png
+# mac:
+#   name: Mac Reddin
+#   image: mac.png
+
+dev:
+  name: 开发组
+  image: developer.png

@@ -1,9 +1,26 @@
-# Odin Knowledge Base
+# awesome-openwrt
 
-Odin is a Jekyll template for knowledgebases and support sites. Please see the [official Jekyll docs](https://jekyllrb.com/docs/) for more info on running, building and editing a Jekyll site.
+> 阅读: [https://awesome-openwrt.github.io/](https://awesome-openwrt.github.io/)
 
-*Full documentation is in the works and coming soon*
+## 部署说明
 
+```bash
+# pre ruby and gem
+ruby -v
+gem -v
 
+# install bundle and jekyll
+gem install bundle
+gem install jekyll
 
+bundle -v
+jekyll --version
 
+# install dependency for this project
+bundle install
+
+# run
+jekyll server
+## or
+bundle exec jekyll server
+```
